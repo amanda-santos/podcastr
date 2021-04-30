@@ -1,6 +1,6 @@
 <h1 align="center">
     <img src="public/favicon.png" />
-    <h1>Podcastr</h1>
+    Podcastr
 </h1>
 <p align="center">
 	Podcastr is your platform to listen to your favorite podcasts. Developed during Rocketseat's #5 Next Level Week.

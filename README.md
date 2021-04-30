@@ -1,5 +1,6 @@
 <h1 align="center">
     <img src="public/favicon.png" />
+    <br />
     Podcastr
 </h1>
 <p align="center">

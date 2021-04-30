@@ -1,34 +1,60 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h1 align="center">
+    <img src="public/favicon.png" />
+    <h1>Podcastr</h1>
+</h1>
+<p align="center">
+	Podcastr is your platform to listen to your favorite podcasts. Developed during Rocketseat's #5 Next Level Week.
+</p>
+<p align="center">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/amanda-santos/podcastr">
+  
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/amanda-santos/podcastr">
+  
+  <a href="https://github.com/amanda-santos/podcastr/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/amanda-santos/podcastr">
+  </a>
+  
+  <a href="https://github.com/amanda-santos/podcastr/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/amanda-santos/podcastr">
+  </a>
+  
+  <img alt="GitHub" src="https://img.shields.io/github/license/amanda-santos/podcastr">
+</p>
+<p align="center">
+  <a href="#-techs">Techs</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-techs">Preview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-usage">Usage</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-contributing">Contributing</a>&nbsp;&nbsp;&nbsp;
+</p>
 
-## Getting Started
+## 👩🏻‍💻 Techs
 
-First, run the development server:
+This project was developed with the following technologies:
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+- Next.js
+- React.js
+- Typescript
+- HTML5
+- Sass
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 💻 Preview
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+<p align="center">
+  <img src="demo/podcastr1.gif" />
+  <img src="demo/podcastr2.gif" />
+</p>
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+## 🖱 Usage
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+1. Run `npm i` or `yarn` to install the dependencies
+2. Run the server with `npm run server` or `yarn server`
+3. Run the application with `npm run dev` or `yarn dev`
+4. Access `http://localhost:3000`
 
-## Learn More
+## 🤔 Contributing
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+1. _Fork_ this repository (<https://github.com/amanda-santos/podcastr/fork>)
+2. Create a _branch_ for your changes (`git checkout -b feature/fooBar`)
+3. _Commit_ (`git commit -am 'Add some fooBar'`)
+4. _Push_ (`git push origin feature/fooBar`)
+5. Create a new _Pull Request_
